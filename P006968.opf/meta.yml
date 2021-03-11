@@ -5,11 +5,12 @@ source_metadata:
   title: ལེགས་བཤད་དཔེ་ཚོགས་ནོར་བུའི་ཕྲེང་བ། （༡）
   author: ''
   volumes:
-    1abfe63d960e402fb62d20b216cd31a8:
+    52bdf9951ff6420ba19050717232b8db:
       image_group_id: I1KG13745
-      title: ''
+      title: Volume 1 of legs bshad dpe tshogs nor bu'i phreng ba :1
       volume_number: 1
       total_pages: 600
+      base_file: v001.txt
 ebook_metadata:
   title: ལེགས་བཤད་དཔེ་ཚོགས་ནོར་བུའི་ཕྲེང་བ། （༡）
   author: ''
